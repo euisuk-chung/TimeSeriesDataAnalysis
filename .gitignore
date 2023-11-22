@@ -2,7 +2,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=jupyternotebooks,python
 
 # 강의자료
-강의자료/
+강의자료/*.pdf
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
