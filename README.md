@@ -3,7 +3,8 @@ This Repo. contains "Timeseries Data Analysis Lecture Materials" for Youtube Cou
 
 ## Youtube Link
 
-[시계열데이터분석](https://youtube.com/playlist?list=PL_IloBNfWCdm1uml4sVMaHem85-5W9mbL&si=4OLg5eyhYoa-Dned)
+- [시계열데이터분석](https://youtube.com/playlist?list=PL_IloBNfWCdm1uml4sVMaHem85-5W9mbL&si=4OLg5eyhYoa-Dned)
+
 ---
 
 ## Lectures
